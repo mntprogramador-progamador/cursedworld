@@ -1,2 +1,0 @@
-# cursedworld
-Cursed World
